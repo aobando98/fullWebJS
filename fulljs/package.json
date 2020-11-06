@@ -5,9 +5,9 @@
   "main": ".eslintrc.js",
   "dependencies": {
     "@babel/core": "^7.11.6",
-    "@babel/node": "^7.X",
+    "@babel/node": "^7.12.1",
     "@babel/preset-env": "^7.11.5",
-    "@babel/preset-react": "^7.10.4",
+    "@babel/preset-react": "^7.12.1",
     "axios": "^0.20.0",
     "babel-loader": "^8.1.0",
     "babel-node": "0.0.1-security",
