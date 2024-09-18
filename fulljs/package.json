@@ -13,7 +13,7 @@
     "babel-node": "0.0.1-security",
     "body-parser": "^1.19.0",
     "ejs": "^3.1.5",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "json-loader": "^0.5.7",
     "mongodb": "^3.6.2",
     "node-sass-middleware": "^0.11.0",
